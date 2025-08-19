@@ -22,3 +22,11 @@ Topic: Divisibility of Natural numbers and obyknovennie drobi
 </br>Solved: 5.5 (a/a can be zero so actually u are correct, but generally get rid of a, word problems are confusing)
 </br>Time: ~30min
 
+<h2>Day 5: </h2>
+<b>Topic</b>: Ratios
+</br>Ex.number:10
+</br> Solved: 10!!!
+</br>Time: ~25 min
+</br>This week's amount: 1000
+
+
